@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a simple front page, and you can see the [demo](https://frozen-journey-99368.herokuapp.com/) here. I'm going to use this front page to connect with a laravel project that will be developed in the future
 
 ## Available Scripts
 
