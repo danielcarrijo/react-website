@@ -103,6 +103,7 @@ a h1 {
     }
     .title, .subtitle, .texteffect {
       text-align: center;
+      margin-left: auto;
     }
 
     
