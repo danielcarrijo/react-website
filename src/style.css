@@ -1,0 +1,116 @@
+
+.caption_pic1 {
+  position: absolute;
+  top: 40%;
+  left: 16px;
+  color: white;
+
+}
+
+.justify {
+  text-align:justify;
+}
+
+.bg-dblue {background: #305489;}
+
+
+
+.c2Style {
+  background: url('./Imagem2.jpg');
+  background-attachment: fixed;  background-size: cover;
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+  padding: 2.5rem;
+  position: relative;
+}
+
+.c3Style {
+  background: url('./Imagem3.jpg');
+  background-attachment: fixed;  background-size: cover;
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: white;
+  padding: 2.5rem;
+  position: relative;
+}
+
+.c4Style {
+  background-color: #f4511e;
+  background-blend-mode: lighten;
+  border: none;
+  color: white;
+  padding: 7rem;
+  text-align: center;
+  font-size: 16px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.c4Style:hover {background-color: #f4511e; background-blend-mode: normal;}
+
+a {
+  text-decoration: none;
+}
+
+a h1 {
+  text-decoration: none;
+}
+
+
+
+.container-fluid .main-title {
+    font-size: 40pt;
+}
+
+.container-fluid #text-effect {
+    text-decoration: underline;
+    text-decoration-color: darkblue;
+}
+.pic1 {
+    opacity: 0.1;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.title {
+    font-size: 5vw;
+    margin-bottom: 4.5rem;
+  }
+.subtitle {
+    font-size: 3.5vw;
+    margin-bottom: 0;
+  }
+.texteffect {
+  margin-top:0;
+  font-size:3vw;
+}
+
+@media (max-width: 778px) {
+    .title {
+      font-size: 6vh;
+      margin-bottom: 2rem;
+    }
+    .subtitle {
+      font-size: 4.2vh;
+
+    }
+    .texteffect {
+      font-size: 3.6vh;
+      margin-top:5px;
+    }
+    .title, .subtitle, .texteffect {
+      text-align: center;
+    }
+
+    
+}
+
+@media (max-width: 580px) {
+  .titles {
+    text-align: center;
+  }
+}
+
