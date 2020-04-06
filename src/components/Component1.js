@@ -3,7 +3,7 @@ import Imagem1 from '../Imagem1.jpg';
 import TypingText from '../components/TypingText.js'
 export default function component1() {
     return (
-        <div className="container-fluid" style={div}>
+        <div className="container-fluid" id="component1" style={div}>
             <img src={Imagem1} className="pic1" alt="Background"/>
             <div  className="caption_pic1 pb-5">
                 <h1 className="title">WE ARE <b>LOREM TECHNOLOGY</b></h1>

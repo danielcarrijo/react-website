@@ -7,7 +7,7 @@ export class Component2 extends Component {
     render() {
         return (
             
-                    <div className="bg-black">
+                    <div className="bg-black" id="component2" >
                         <div className="container-fluid c2Style" style={div}>
                         <VisibilitySensor>
                             {({ isVisible }) => (

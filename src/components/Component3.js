@@ -7,7 +7,7 @@ import VisibilitySensor from "react-visibility-sensor";
 export class Component3 extends Component {
     render() {
         return (
-            <div className="bg-black">
+            <div className="bg-black" id="component3" >
                 <div className="container-fluid c3Style" style={div}>
                 <VisibilitySensor>
                     {({ isVisible }) => (
