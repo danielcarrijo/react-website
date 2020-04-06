@@ -50,6 +50,16 @@
   text-decoration: none;
 }
 
+.c5Style {
+  background-color: #ccc;
+  background-blend-mode: lighten;
+  border: none;
+  color: white;
+  padding: 8rem;
+  font-size: 16px;
+  text-decoration: none;
+}
+
 .c4Style:hover {background-color: #f4511e; background-blend-mode: normal;}
 
 a {
