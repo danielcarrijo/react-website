@@ -5,7 +5,7 @@ export default function component1() {
     return (
         <div className="container-fluid" style={div}>
             <img src={Imagem1} className="pic1" alt="Background"/>
-            <div  className="ml-5 caption_pic1 pb-5">
+            <div  className="caption_pic1 pb-5">
                 <h1 className="title">WE ARE <b>LOREM TECHNOLOGY</b></h1>
                 <h1 className="subtitle">WE HELP YOU TO</h1>
                 <h1 className="texteffect">

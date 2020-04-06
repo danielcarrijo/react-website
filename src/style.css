@@ -4,6 +4,7 @@
   top: 40%;
   left: 16px;
   color: white;
+  margin-left: 3rem;
 
 }
 
@@ -88,7 +89,7 @@ a h1 {
   font-size:3vw;
 }
 
-@media (max-width: 778px) {
+@media (max-width: 608px) {
     .title {
       font-size: 6vh;
       margin-bottom: 2rem;
@@ -103,7 +104,10 @@ a h1 {
     }
     .title, .subtitle, .texteffect {
       text-align: center;
+    }
+    .caption_pic1 {
       margin-left: auto;
+      text-align: center;
     }
 
     
